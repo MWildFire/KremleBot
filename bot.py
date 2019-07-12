@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import time
 
-bot = telebot.TeleBot ('699956373:AAHJs0MdoNlN_L2Nk-Zp3AwqVhHmqr8qbs4')
+bot = telebot.TeleBot ('')
 
 firstNum = 0
 secondNum = 0
